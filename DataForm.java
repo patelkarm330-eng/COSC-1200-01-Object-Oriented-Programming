@@ -22,7 +22,7 @@ public class DataForm extends JFrame {
         JPanel panel = new JPanel();
         panel.setLayout(new GridLayout(0, 2, 10, 10));
 
-        // Example fields (you can change labels to match your final project)
+        // Example fields
         String[] labels = {
                 "Player 1 Name:", "Player 2 Name:",
                 "Player 1 score:", "Player 2 score :"
